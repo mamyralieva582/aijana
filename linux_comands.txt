@@ -1,0 +1,33 @@
+
+cd name - 
+ls -
+touch name -
+mkdir name - 
+
+ls -a -
+ls -l 
+ls -la - 
+
+cd - 
+cd ~ -
+cd . -
+cd .. -
+
+rm name - 
+rmdir - 
+rm -rf - 
+
+history - 
+history какое-то чи
+history | grep слово - выводит все команды в которых есть указанное слово 
+
+pwd - показывает абсолютный (начиная с корневой папки) путь до текущей директории 
+cat -
+nano - 
+
+mv test1.txt test3.txt - gggggggg        test1.txt  test3.txt
+mv test1 test3 - 
+mv test1.txt test1 
+
+apd -
+cat
